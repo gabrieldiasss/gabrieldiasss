@@ -13,7 +13,7 @@ Sou um desenvolvedor Web FullStack apaixonado em transformar as minhas ideias ma
 - Meu foco é **Node.js** com o banco de dados **MongoDB**;
 - Estou em um projeto, no qual ajudo a comunidade dando cursos gratuitos no youtube.
 
-#### Tecnlogias que eu tenho experiência:
+## Tecnlogias que eu tenho experiência:
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
