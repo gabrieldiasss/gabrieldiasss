@@ -10,7 +10,7 @@ Sou um desenvolvedor Web FullStack apaixonado em transformar as minhas ideias ma
 ## Informações pessoais:
 
 - Meu foco é aprender **React.js**;
-- Meu foco é **Node.js** com o banco de dados **MongoDB**;
+- Meu foco é aprender **Node.js** com o banco de dados **MongoDB**;
 - Estou em um projeto, no qual ajudo a comunidade dando cursos gratuitos no youtube.
 
 ## Tecnlogias que eu tenho experiência:
@@ -26,6 +26,13 @@ Sou um desenvolvedor Web FullStack apaixonado em transformar as minhas ideias ma
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="40" height="40" />
 </p>
+
+**Quer conversar comigo?**
+
+[![Instagram Badge](https://img.shields.io/badge/-@alemdocodigoadc-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://instagram.com/alemdocodigoadc)](https://twitter.com/dieegosf) 
+[![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Dias-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/gabriel-dias-86ba711b6/) 
+[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:diego.schell.f@gmail.com)
+
 
 <hr />
 
