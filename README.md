@@ -7,6 +7,12 @@ Sou um desenvolvedor Web FullStack apaixonado em transformar as minhas ideias ma
 
 <hr />
 
+## Informações pessoais:
+
+- Meu foco é aprender **React.js**;
+- Meu foco é **Node.js** com o banco de dados **MongoDB**;
+- Estou em um projeto, no qual ajudo a comunidade dando cursos gratuitos no youtube.
+
 #### Tecnlogias que eu tenho experiência:
 
 <p align="left">
@@ -31,5 +37,7 @@ Sou um desenvolvedor Web FullStack apaixonado em transformar as minhas ideias ma
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrieldiasss&show_icons=true&theme=gotham" alt="gabrieldiasss" />
 </a>
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrieldiasss" alt="gabrieldiasss" /> </p>
 
 
