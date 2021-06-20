@@ -1,7 +1,7 @@
 # Olá 👋
 
 ### 👦 Um pouco sobre mim ...
-Meu nome é Gabriel, eu atualmente tenho **16 anos** e minha jornada como dev começou em **Maio de 2020** (quando eu tinha 15 anos), desde aquela época eu me dedico **todos os dias** para a programação. 💻
+Meu nome é Gabriel Dias e minha jornada como dev começou em **Maio de 2020**, desde aquela época eu me dedico **todos os dias** para a programação. 💻
 
 Sou um desenvolvedor Web FullStack apaixonado em transformar as minhas ideias malucas em softwares e em projetos. 😜
 
@@ -9,8 +9,8 @@ Sou um desenvolvedor Web FullStack apaixonado em transformar as minhas ideias ma
 
 ## Informações pessoais:
 
-- Meu foco é aprender **React.js**;
-- Meu foco é aprender **Node.js** com o banco de dados **MongoDB**;
+- Tenho conhecimento em **React.js**;
+- Tenho conhecimento em **Node.js** com o banco de dados **MongoDB**;
 - Estou em um projeto, no qual ajudo a comunidade dando cursos gratuitos no youtube.
 
 ## Tecnlogias que eu tenho experiência:
