@@ -29,8 +29,7 @@ Sou um desenvolvedor Web FullStack apaixonado em transformar as minhas ideias ma
 
 ## Quer conversar comigo?
 
-[![Instagram Badge](https://img.shields.io/badge/-@alemdocodigoadc-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://instagram.com/alemdocodigoadc)](https://www.instagram.com/alemdocodigoadc/?hl=pt-br/alemdocodigoadc) 
-[![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Dias-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/gabriel-dias-86ba711b6/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Dias-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrieldiassss/)](https://www.linkedin.com/in/gabrieldiasss/) 
 
 <hr />
 
