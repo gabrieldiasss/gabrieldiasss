@@ -3,13 +3,13 @@
 ### 👦 Um pouco sobre mim ...
 Meu nome é Gabriel Dias e minha jornada como dev começou em **Maio de 2020**, desde aquela época eu me dedico **todos os dias** para a programação. 💻
 
-Sou um desenvolvedor Web FullStack apaixonado em transformar as minhas ideias malucas em softwares e em projetos. 😜
+Sou um desenvolvedor Web com foco em Frontend apaixonado em transformar as minhas ideias malucas em softwares e em projetos. 😜
 
 <hr />
 
 ## Informações pessoais:
 
-- Tenho conhecimento em **React.js**;
+- Tenho conhecimento em **React.js** e **NextJS**;
 - Tenho conhecimento em **Node.js** com o banco de dados **MongoDB**;
 - Estou em um projeto, no qual ajudo a comunidade dando cursos gratuitos no youtube.
 
